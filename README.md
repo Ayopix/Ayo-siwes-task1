@@ -1,5 +1,5 @@
 # Ayo-siwes-task1
-Hi I'm Ayo a student of Federal University Lokoja, a data analyst.
+Hi I'm Ayomide a student of Federal University Lokoja, a data analyst.
 
 I am passionate about extracting meaningful insights from raw data, to make important decisions.
 
